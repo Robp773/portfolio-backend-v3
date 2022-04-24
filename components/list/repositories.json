@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_list_repositories",
+  "info": {
+    "name": "repositories",
+    "icon": "align-left"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "url": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
